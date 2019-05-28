@@ -1,0 +1,11 @@
+.currency-container{
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.currency-intake{
+  position: relative;
+}
+.currency h1{
+  text-align: center;
+}
