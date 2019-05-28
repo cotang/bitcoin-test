@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bitcoin-test/static/css/main.1bae8569.chunk.css",
+    "main.js": "/bitcoin-test/static/js/main.2c392d22.chunk.js",
+    "main.js.map": "/bitcoin-test/static/js/main.2c392d22.chunk.js.map",
+    "runtime~main.js": "/bitcoin-test/static/js/runtime~main.119b9dd0.js",
+    "runtime~main.js.map": "/bitcoin-test/static/js/runtime~main.119b9dd0.js.map",
+    "static/js/2.665b0bb4.chunk.js": "/bitcoin-test/static/js/2.665b0bb4.chunk.js",
+    "static/js/2.665b0bb4.chunk.js.map": "/bitcoin-test/static/js/2.665b0bb4.chunk.js.map",
+    "index.html": "/bitcoin-test/index.html",
+    "precache-manifest.ee021ffb94a5342d72f99b24ba79229a.js": "/bitcoin-test/precache-manifest.ee021ffb94a5342d72f99b24ba79229a.js",
+    "service-worker.js": "/bitcoin-test/service-worker.js",
+    "static/css/main.1bae8569.chunk.css.map": "/bitcoin-test/static/css/main.1bae8569.chunk.css.map"
+  }
+}
